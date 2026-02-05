@@ -49,12 +49,11 @@ The dataset contains student mathematics performance data, including:
 ## Project Structure
 
 ```
-├── notebooks/
-│   └── analysis.ipynb
 ├── data/
 │   └── Student_Math_Data.csv
-├── report/
-│   └── project documentation
+│   └── Student_Math_Description.pdf
+├── src/
+│   └── script.py
 └── README.md
 ```
 
