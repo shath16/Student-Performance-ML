@@ -73,7 +73,3 @@ The analysis demonstrates how machine learning and deep learning models can be a
 * Model deployment
 
 ---
-
-## Author
-
-Computer Science student project focusing on applied machine learning using Jupyter Notebook and TensorFlow.
