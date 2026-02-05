@@ -73,3 +73,9 @@ The analysis demonstrates how machine learning and deep learning models can be a
 * Model deployment
 
 ---
+
+## Usage
+
+This repository is provided for educational and portfolio purposes only.
+Reuse, redistribution, or modification without permission is not allowed.
+
